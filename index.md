@@ -10,4 +10,6 @@ function timer(totalTime, dealine) {
       clearInterval(timer);
       $('.deadline-days .day').text(deadline);
       }
+    } 
   }
+}

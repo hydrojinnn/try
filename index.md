@@ -12,4 +12,3 @@ function timer(totalTime, dealine) {
       }
     } 
   }
-}
